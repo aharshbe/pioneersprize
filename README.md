@@ -1,2 +1,2 @@
 # The Polkadot Pioneers Prize: Status & Updates
-This repo documents the decisions made by the admin curator of the Polkadot Pioneers Prize. It will also host a roadmap for the Pioneers Prize as well as a reference containing other misc documents.
+This repo serves as a roadmap for the Pioneers Prize, a reference containing artifacts and resources, and as well as a place to document curator updates.
