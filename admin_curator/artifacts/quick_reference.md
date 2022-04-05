@@ -20,4 +20,4 @@
 * [Parity research into comparative prize costs across various industries](https://docs.google.com/spreadsheets/d/1w0dSguxVCVDY-7CgUeUbll_IroLA9zchUOblsgaXBbw/edit#gid=0)
 
 ## Website
-* [pioneersprize.polkadnot.network](pioneersprize.polkadnot.network)
+* [pioneersprize.polkadnot.network](https://pioneersprize.polkadot.network/)
